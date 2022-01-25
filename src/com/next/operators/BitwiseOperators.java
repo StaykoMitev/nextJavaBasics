@@ -1,9 +1,10 @@
 package com.next.operators;
 
 public class BitwiseOperators {
+
     public static void main(String[] args) {
             // Initial values
-            int a = 3;
+            int a = 5;
             int b = 7;
 
             // bitwise and

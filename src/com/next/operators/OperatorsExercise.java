@@ -2,7 +2,7 @@ package com.next.operators;
 
 import java.util.Scanner;
 
-public class TriangleExercise {
+public class OperatorsExercise {
 
     public static void main(String[] args) {
 

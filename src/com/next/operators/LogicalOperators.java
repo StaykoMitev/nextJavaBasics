@@ -16,7 +16,7 @@ public class LogicalOperators {
     public static void logicalAnd(){
         System.out.println(a&&b);
     }
-
+    //Check if number is between defined range
     public static void logicalAnd2(){
         System.out.println((intA>=1&&intA<=10));
         System.out.println(intB>=1&&intB<=10);
